@@ -1,0 +1,11 @@
+{
+  "id": 123,
+  "name": "幸福小館",
+  "image": "https://source.unsplash.com/random/800x600/?restaurant,food&123",
+  "travelTime": "15分鐘",
+  "type": "中式",
+  "priceRange": "$$",
+  "groupFriendly": true,
+  "busyness": "中",
+  "recommendationScore": 8.5
+}
